@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahtareque&label=Profile%20views&color=0f8ad7&style=flat" alt="abdullahtareque" /> </p>
 
+<h1 align="left">About me</h1>
 - 🌱 I’m currently learning **C#, asp.net core mvc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdullahtareque](https://github.com/abdullahtareque)
