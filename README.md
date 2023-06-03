@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ABDULLAH TAREQUE</h1>
-<h3 align="center">Software Developer || Coder</h3>
+<h4 align="center">I'm a self-taught passionate Back-End developer from Bangladesh</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahtareque&label=Profile%20views&color=0f8ad7&style=flat" alt="abdullahtareque" /> </p>
 
