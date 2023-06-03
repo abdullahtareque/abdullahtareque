@@ -4,8 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahtareque&label=Profile%20views&color=0f8ad7&style=flat" alt="abdullahtareque" /> </p>
 
 - 🌱 I’m currently learning **C#, MVC**
+
 - 👨‍💻 All of my projects are available at [https://github.com/abdullahtareque](https://github.com/abdullahtareque)
+
 - 💬 Ask me about **C#, MVC**
+
 - 📫 How to reach me **abdullahtareque@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -18,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahtareque&show_icons=true&locale=en&layout=compact" alt="abdullahtareque" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahtareque&show_icons=true&locale=en" alt="abdullahtareque" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahtareque&show_icons=true&theme=dark&title_color=2a81f4&text_color=ffffff&hide_border=true&cache_seconds=1800&locale=en" alt="abdullahtareque" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahtareque&" alt="abdullahtareque" /></p>
